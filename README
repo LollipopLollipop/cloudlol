@@ -1,0 +1,5 @@
+undertow-server folder:
+code for front-end and back-end.
+
+etl:
+extrating, transforming and loading code for each query as per folder specified.
